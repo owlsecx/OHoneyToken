@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OHoneyToken
+Comment=Honeytoken/canary forge — decoy credentials, deployable files + manifest, trigger correlation
+Exec=OHoneyToken
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=OForensics;
+Keywords=OHoneyToken;owlsec;security;honeytoken;canary;deception;decoy;
